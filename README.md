@@ -1,6 +1,6 @@
 # Desafio "Login forms CSS" - Discover Rocketseat
 
-![](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Fimages%2Fdiscover%2Fchallenges%2Flogin-form-css.png&w=384&q=75)
+![](https://app.rocketseat.com.br/discover/challenges/login-form-css)
 
 ## Neste desafio é proposto fazer uma página de login, ultilizando conceitos estudados nas aulas do Discover, colocando em pratíca
 ## o conteúdo de HTML e CSS.

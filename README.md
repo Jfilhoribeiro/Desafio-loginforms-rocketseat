@@ -2,7 +2,7 @@
 
 ![](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Fimages%2Fdiscover%2Fchallenges%2Flogin-form-css.png&w=384&q=75)
 
-## Neste desafio é proposto fazer uma pagina de login, ultilizando conceitos estudados nas aulas do Discover, colocando em pratíca
+## Neste desafio é proposto fazer uma página de login, ultilizando conceitos estudados nas aulas do Discover, colocando em pratíca
 ## o conteúdo de HTML e CSS.
 
 ### Neste desafio foi usado as seguintes tecnologia
